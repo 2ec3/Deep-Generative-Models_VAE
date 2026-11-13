@@ -1,1 +1,1 @@
-# Deep-Generative-Models_VariationalAutoEncoder
+# Deep-Generative-Models_VAE
